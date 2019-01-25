@@ -1,7 +1,7 @@
 ---
   applications: 1
     -instances: 1
-    name: socialloginjesus24ene
+    name: simple-toolchain-20190125021705297
     memory: 128M
     domain: mybluemix.net
     host: socialloginjesus24ene
