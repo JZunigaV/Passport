@@ -1,0 +1,8 @@
+---
+  applications: 1
+    -instances: 1
+    name: socialloginjesus24ene
+    memory: 128M
+    domain: mybluemix.net
+    host: socialloginjesus24ene
+    
