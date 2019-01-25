@@ -55,4 +55,6 @@ const index = require('./routes/index');
 app.use('/', index);
 
 
+console.log("Holaa");
+
 module.exports = app;
