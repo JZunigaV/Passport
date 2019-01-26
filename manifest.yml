@@ -1,8 +1,10 @@
 ---
-  applications: 1
-    -instances: 1
-    name: simple-toolchain-20190125021705297
-    memory: 128M
+applications:
+  - instances: 1
+    name: sociallogingerman24ene
+    memory: 256M
     domain: mybluemix.net
     host: socialloginjesus24ene
-    
+    path: .
+    command: npm start
+
